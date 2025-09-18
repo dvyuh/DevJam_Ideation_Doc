@@ -47,7 +47,7 @@ Backend/API lead ---Lakshya
 
 Prompt engineer ---Sparsh
 
-content designer ---Divyam
+content designer ---Atishay
 
 ## 📽️ Demo Idea
 Show a user uploading notes.
