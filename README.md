@@ -6,7 +6,7 @@ Current AI tools just answer questions instead of creating an interactive, memor
 
 ## 💡 Our Solution
 
-Guru AI makes studying feel like chatting with your favorite historical figure or fictional character. Instead of plain explanations, the AI takes on a persona—Einstein explaining entropy with train analogies, or Iron Man teaching coding with wit and humor.
+Cognito makes studying feel like chatting with your favorite historical figure or fictional character. Instead of plain explanations, the AI takes on a persona—Einstein explaining entropy with train analogies, or Iron Man teaching coding with wit and humor.
 
 ## ✨ Key Features 
 
@@ -18,15 +18,13 @@ Guru AI makes studying feel like chatting with your favorite historical figure o
 
 ⚡ Lightweight Tech Stack: Simple frontend + backend API calls.
 
-🎨 Prompt Engineering Magic: The real “secret sauce.”
-
 ## 🛠️ Tech Stack
 
 Frontend: HTML, CSS, JavaScript, React.
 
-Backend: Django.
+Backend: Python(Django).
 
-AI: Gemini API (or OpenAI API).
+AI: Gemini API (or OpenAI API) Elevenlabs.
 
 ## 🔑 How It Works
 
@@ -39,12 +37,7 @@ Backend sends the notes + persona system prompt to the LLM.
 AI responds in character, explaining and teaching interactively.
 
 ## 🎯 Impact
-Guru AI makes learning more engaging, personal, and memorable. Instead of passive reading, students get a one-of-a-kind experience that sticks.
-
-## 📅 Roadmap
-Day 1: Setup repo, frontend UI, and basic API call. Build persona system prompts.
-
-Day 2: Connect notes input. Polish UX, add multiple personas, demo-ready.
+Cognito makes learning more engaging, personal, and memorable. Instead of passive reading, students get a one-of-a-kind experience that sticks.
 
 ## 👥 Team Roles
 
